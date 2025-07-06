@@ -6,3 +6,4 @@ statsmodels
 scipy
 python-dateutil
 matplotlib
+seaborn
