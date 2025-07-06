@@ -1,7 +1,7 @@
-streamlit
-pandas
-plotly
-numpy
-statsmodels
-scipy
-python-dateutil
+streamlit==1.32.0
+pandas==2.2.0
+plotly==5.18.0
+numpy==1.26.0
+statsmodels==0.14.1
+scipy==1.11.4
+python-dateutil==2.9.0
