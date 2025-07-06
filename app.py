@@ -276,7 +276,6 @@ with tab3:
             y='work_life_balance_score',
             color='departamento',
             hover_data=['ciudad', 'modalidad_trabajo'],
-            trendline="lowess",
             title="Work Hours vs. Work-Life Balance Score"
         )
         st.plotly_chart(fig3b, use_container_width=True)
